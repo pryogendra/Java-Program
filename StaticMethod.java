@@ -9,8 +9,8 @@ class Book
     }
     static void book_details()
     {
-        System.out.println("Book name ="+Book.bname);
-        System.out.println("Author ="+Book.author);
+        System.out.println("Book name ="+bname);
+        System.out.println("Author ="+author);
     }
 }
 public class StaticMethod
