@@ -1,5 +1,5 @@
 import java.util.*;
-class Ecpt
+class JException
 {
     public static void main(String args[])
     {
